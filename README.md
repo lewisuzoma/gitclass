@@ -1,0 +1,2 @@
+# gitclass
+A github class
